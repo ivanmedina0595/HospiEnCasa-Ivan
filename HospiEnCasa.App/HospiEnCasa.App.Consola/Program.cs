@@ -15,11 +15,14 @@ namespace HospiEnCasa.App.Consola
         static void Main(string[] args)
         {   
             System.Console.WriteLine("hola githug");
+            sistema _ consola _ wiriteline("esto lo hago desde la web");
             bool control = true;
             while (control) 
             {
+                
                 Console.WriteLine("BIENVENIDO AL PROGRAMA HOSPITAL EN CASA G44");
                 System.Console.WriteLine(" #### MENU PRINCIPAL ####");
+                
                 System.Console.WriteLine(" 1. Adicionar paciente ");
                 System.Console.WriteLine(" 2. borrar paciente ");
                 System.Console.WriteLine(" 3. buscar paciente ");
