@@ -15,7 +15,7 @@ namespace HospiEnCasa.App.Consola
         static void Main(string[] args)
         {   
             System.Console.WriteLine("hola githug");
-            sistema _ consola _ wiriteline("esto lo hago desde la web");
+            System.Console.WriteLine("esto lo hago desde la web");
             bool control = true;
             while (control) 
             {
