@@ -13,7 +13,8 @@ namespace HospiEnCasa.App.Consola
         private static IRepositorioPaciente _repoPaciente= new RepositorioPaciente(new Persistencia.AppContext());
 
         static void Main(string[] args)
-        {
+        {   
+            System.Console.WriteLine("hola githug");
             bool control = true;
             while (control) 
             {
